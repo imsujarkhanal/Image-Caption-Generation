@@ -1,0 +1,7 @@
+numpy 
+pandas
+tensorflow==2.15.0 
+tqdm matplotlib 
+seaborn
+streamlit
+os
