@@ -62,7 +62,7 @@ streamlit run app.py
 - **analysis_exploring.py**: Script to explore the dataset and visualize data
 - **requirements.txt**: Project dependencies
 
-## Model Choice Rationale
+## Model Choice 
 
 * **DenseNet201 for Feature Extraction**: DenseNet201 captures hierarchical feature representations through dense blocks, producing robust 1920-dimensional image embeddings.
 * **LSTM for Caption Generation**: LSTM networks effectively model sequential dependencies, enabling coherent word-by-word caption generation based on image embeddings and prior context.
