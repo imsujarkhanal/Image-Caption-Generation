@@ -70,6 +70,6 @@ streamlit run app.py
 ## Notes
 
 * Ensure dataset paths in `train.py`, `app.py`, and `analysis_exploring.py` match your local directory structure.
-* Link of [Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k) I used
+* Link of [Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k) I used .Sometimes the dataset used are compatible with particular model.
 * You can extend this to larger datasets like Flickr30k or MS-COCO for improved performance and check the accuracy .
 * Consider using GPU acceleration for faster training.
